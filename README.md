@@ -66,6 +66,7 @@ Before running the application, ensure you have the following installed:
 
     | Username | Email | Password |
     | :--- | :--- | :--- |
+    | Omar Medhat | mr.omarmedhat@gmail.com | 123456 |
     | Hazem Saeed | hazemsaed512@gmail.com | 123456789 |
 
     or add your own in main file 
