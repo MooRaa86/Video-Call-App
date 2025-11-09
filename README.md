@@ -33,7 +33,7 @@ Before running the application, ensure you have the following installed:
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repository-url>
+    git clone <https://github.com/MooRaa86/Video-Call-App.git>
     cd VideoCall
     ```
 
@@ -66,12 +66,12 @@ Before running the application, ensure you have the following installed:
 
     | Username | Email | Password |
     | :--- | :--- | :--- |
-    | Omar Medhat | mr.omarmedhat@gmail.com | ******** |
     | Hazem Saeed | hazemsaed512@gmail.com | 123456789 |
 
-    *Note: It is highly recommended to remove these hardcoded users and implement a proper database for production use.*
+    or add your own in main file 
 
-3.  **Video Call:**
+
+4.  **Video Call:**
     *   **Create a New Meeting:** Click the "Create a New Meeting" button to start a new session.
     *   **Join a Meeting:** Enter a Room ID in the designated field and click "Join Meeting" to connect to an existing session.
 
