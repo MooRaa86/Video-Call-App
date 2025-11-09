@@ -21,7 +21,7 @@ public class VideoCallApplication {
 			userService.registerUser(User.builder()
 					.username("Omar Medhat")
 					.email("mr.omarmedhat@gmail.com")
-					.password("34870371")
+					.password("123456)
 					.build());
 
 			userService.registerUser(User.builder()
